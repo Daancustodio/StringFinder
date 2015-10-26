@@ -11,3 +11,7 @@ Os parâmetros são configuráveis pelo usuário:
 Todas as configurações citadas acima são configuradas na classe Main, já vem com valores fixos para o teste inicial do aplicativo.
 
 As gerações possuem, sempre, o mesmo número de indivíduos, utiliza uma recombinação de dois pontos ("two-point crossover").
+
+O projeto foi criado no NetBeans, portanto a melhor maneira de testa-lo é instalar o NetBeans e rodar o projeto, caso tenha conhecimento mais aprofundado em Java, pode fazer o build a sua maneira.
+
+Att, Daniel Custódio 
